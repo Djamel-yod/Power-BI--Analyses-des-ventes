@@ -16,7 +16,7 @@ Afin de mieux connaitre et comprendre sa clientèle, une chaîne de librairie so
 
 **-** Quel est le montant des ventes par ville ?
 
-Au delà de la segmentation des ventes, les responsables de l'entreprise souhaite savoir si leurs objectifs de réaliser un chiffre d'affaire annuel de **6000 £**  a été atteint et **quels sont les modes de règlements utilisés par les clients**.
+Au delà de la segmentation des ventes, les responsables de l'entreprise souhaite savoir si leurs objectifs de réaliser un chiffre d'affaire annuel de **6000 £**  a été atteint et **quels sont les modes de paiement utilisés par les clients**.
 
 
 
