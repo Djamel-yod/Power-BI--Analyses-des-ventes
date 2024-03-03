@@ -1,6 +1,6 @@
 ## Segmentation des ventes de Livres d'une chaîne de Librairie
 
-Ce repertoire comporte une base de donnée .accdb qui est celle qui a été utilisé pour concevoir le dashboard et un fichier pdf qui est une vue d'ensemble du dashboard réalisé. Il n'est naturellement pas interactif. Vous pouvez avoir accès au dashboard de manière interactive en cliquant sur ce lien. 
+Ce repertoire comporte un fichier .accdb qui est la base de données utilisée pour concevoir le dashboard, un fichier .pdf qui est une vue d'ensemble du dashboard réalisé et un fichier .pbix qui contient le tableau de bord sous power Bi Desktop.  
 
 # Contexte
 
