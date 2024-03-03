@@ -1,5 +1,8 @@
 ## Segmentation des ventes de Livres d'une chaîne de Librairie
 
+Ce repertoire comporte un fichier pdf qui est une vue d'ensemble du dashboard réalisé. Il n'est naturellement pas interactif. Pour avoir accès au dashboard interactif, vous pouvez cliquer sur ce lien.
+
+
 # Contexte
 
 Afin de mieux connaitre et comprendre sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou auteur):
