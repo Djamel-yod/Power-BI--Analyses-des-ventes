@@ -1,11 +1,10 @@
 ## Segmentation des ventes de Livres d'une chaîne de Librairie
 
-Ce repertoire comporte un fichier pdf qui est une vue d'ensemble du dashboard réalisé. Il n'est naturellement pas interactif. Pour avoir accès au dashboard interactif, vous pouvez cliquer sur ce lien.
-
+Ce repertoire comporte une base de donnée access qui est celle qui a été utilisé pour concevoir le dashboard et un fichier pdf qui est une vue d'ensemble du dashboard réalisé. Il n'est naturellement pas interactif. Vous pouvez avoir accès au dashboard de manière interactive en cliquant sur ce lien. 
 
 # Contexte
 
-Afin de mieux connaitre et comprendre sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou auteur):
+Afin de mieux connaitre et comprendre sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
 
 **-** Quel est le nombre des ventes dans l'année ? 
 
@@ -24,7 +23,7 @@ Au delà de la segmentation des ventes, les responsables de l'entreprise veulent
 
 # Méthodologie
 
-**-** Connexion de Power Bi à la source de données (Notre source de données est une base de données Access contenant des informations sur les clients, les commandes, les livres, les modes de paiement, les vendeurs)
+**-** Connexion de Power Bi à la source de données (Notre source de données est une base de données access contenant des informations sur les clients, les commandes, les livres, les modes de paiement, les vendeurs)
 
 **-** Prétraitement des données dans PowerQuery (Vérification du format des données, gestion des données manquantes)
 
