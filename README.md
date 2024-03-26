@@ -1,6 +1,6 @@
 ## Segmentation des ventes de Livres d'une chaîne de Librairie
 
-A travers ce projet, je renforce mes compétences en visualisations interactives de données avec **PoweBI**. Je monte également en compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage Dax**.
+A travers ce projet, je renforce mes compétences en visualisations interactives de données avec **PoweBI**. Je monte également en compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage DAX**.
 
 Ce repertoire comporte un fichier .accdb qui est la base de données utilisée pour concevoir le dashboard, un fichier .pdf qui est une vue d'ensemble du dashboard réalisé et un fichier .pbix qui contient le tableau de bord sous power Bi Desktop.  
 
@@ -39,8 +39,7 @@ En premier lieu, il est important de constater à travers la **KPI** de vente an
 
 La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €** avec un pic des ventes en Mai (7 ventes). Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
 
-
-
+#PowerBI #PowerQuery #DAX
 
 
 
