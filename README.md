@@ -39,10 +39,13 @@ En premier lieu, il est important de constater à travers la **KPI** de vente an
 
 La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €** avec un pic des ventes en Mai (7 ventes). Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
 
-#PowerBI #PowerQuery #DAX
+ 
 
 
 
+<a href="#">#PowerBI</a>
+<a href="#">#PowerQuery</a>
+<a href="#"> #DAX </a>
 
 
 
