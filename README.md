@@ -6,7 +6,7 @@ Ce repertoire comporte un fichier .accdb qui est la base de données utilisée p
 
 # Contexte
 
-Afin de mieux connaitre et comprendre sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
+Afin de mieux connaitre et comprendre les habitudes d'achats de sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
 
 **-** Quel est le nombre des ventes dans l'année ? 
 
