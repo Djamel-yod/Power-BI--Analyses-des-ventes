@@ -1,5 +1,7 @@
 ## Segmentation des ventes de Livres d'une chaîne de Librairie
 
+<img width="258" alt="Capture_Segmentation" src="https://github.com/Djamel-yod/Power-BI--Segmentation-des-ventes/assets/60408184/172f7bff-764a-47bb-8a5c-75d0689312aa">
+
 A travers ce projet, je renforce mes compétences en visualisations interactives de données avec **PoweBI**. Je monte également en compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage DAX**.
 
 Ce repertoire comporte un fichier .accdb qui est la base de données utilisée pour concevoir le dashboard, un fichier .pdf qui est une vue d'ensemble du dashboard réalisé et un fichier .pbix qui contient le tableau de bord sous power Bi Desktop.  
