@@ -41,7 +41,10 @@ En premier lieu, il est important de constater à travers la **KPI** de vente an
 
 La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €** avec un pic des ventes en Mai (7 ventes). Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
 
- 
+# Outils
+
+<img width="165" alt="Capture_PowerBI" src="https://github.com/Djamel-yod/Power-BI--Segmentation-des-ventes/assets/60408184/f5cb5c53-8158-4943-9eb2-06b6252d9515">
+
 
 
 
