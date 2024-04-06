@@ -39,7 +39,7 @@ Au delà de la segmentation des ventes, les responsables de l'entreprise veulent
 
 En premier lieu, il est important de constater à travers la **KPI** de vente annuel qui est sous forme de jauge, que l'objectif de ventes annuel de **6000 €** n'a pas été atteint. La différence entre le montant de vente réalisé et l'objectif est de l'odre de **€ 1,75 K**.
 
-La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €** avec un pic des ventes en Mai (7 ventes). Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
+La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €** avec un pice des ventes en Mai (7 ventes). Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
 
 # Outils
 
