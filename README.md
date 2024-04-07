@@ -1,4 +1,4 @@
-## Segmentation des ventes de Livres d'une chaîne de Librairie
+## Analyse des ventes de Livres d'une chaîne de Librairie
 
 <img width="500" alt="Capture_Segmentation" src="https://github.com/Djamel-yod/Power-BI--Segmentation-des-ventes/assets/60408184/172f7bff-764a-47bb-8a5c-75d0689312aa">
 
@@ -8,7 +8,7 @@ Ce repertoire comporte un fichier .accdb qui est la base de données utilisée p
 
 # Contexte
 
-Afin de mieux connaitre et comprendre les habitudes d'achats de sa clientèle, une chaîne de librairie souhaite éffectuer une segmentation de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigé. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
+Afin de mieux connaitre et comprendre les habitudes d'achats de sa clientèle, une chaîne de librairie souhaite éffectuer une analyse de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigés. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
 
 **-** Quel est le nombre des ventes dans l'année ? 
 
@@ -22,7 +22,7 @@ Afin de mieux connaitre et comprendre les habitudes d'achats de sa clientèle, u
 
 **-** Quel est le montant des ventes par ville ?
 
-Au delà de la segmentation des ventes, les responsables de l'entreprise veulent savoir si leurs objectifs de réaliser un chiffre d'affaire annuel de **6000 €**  a été atteint et **quels sont les modes de paiement utilisés par les clients**.
+Les responsables de l'entreprise veulent également savoir si leurs objectifs de réaliser un chiffre d'affaire annuel de **6000 €**  a été atteint et **quels sont les modes de paiement utilisés par les clients**.
 
 
 # Méthodologie
