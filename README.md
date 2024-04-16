@@ -2,13 +2,13 @@
 
 ![Power BI-Segmentation des ventes (3)_page-0001](https://github.com/Djamel-yod/Power-BI--Analyses-des-ventes/assets/60408184/07c87ba4-032e-4265-be6e-e947ca68dec8)
 
-A travers ce projet, je renforce mes compétences en visualisations interactives de données avec **PoweBI**. Je monte également en compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage DAX**.
+A travers ce projet, je renforce mes compétences dans la conception de visualisations interactives de données avec **PoweBI**. Je monte également en compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage DAX**.
 
 Ce repertoire comporte un fichier .accdb qui est la base de données utilisée pour concevoir le dashboard, un fichier .pdf qui est une vue d'ensemble du dashboard réalisé et un fichier .pbix qui contient le tableau de bord sous power Bi Desktop.  
 
 # Contexte
 
-Afin de mieux connaitre et comprendre les habitudes d'achats de sa clientèle, une chaîne de librairie souhaite éffectuer une analyse de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigés. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur):
+Afin de mieux connaître et comprendre les habitudes d'achats de sa clientèle, une chaîne de librairies souhaite effectuer une analyse de ses ventes de livres durant l'année écoulée en fonction de leurs catégories et/ou des auteurs qui les ont rédigées. Les responsables de la chaîne souhaitent repondre aux questions métier suivantes pour chaque segment (Catégorie du livre et/ou Auteur) :
 
 **-** Quel est le nombre des ventes dans l'année ? 
 
@@ -37,9 +37,9 @@ Les responsables de l'entreprise veulent également savoir si leurs objectifs de
 
 # Résultats
 
-En premier lieu, il est important de constater à travers la **KPI** de vente annuel qui est sous forme de jauge, que l'objectif de ventes annuel de **6000 €** n'a pas été atteint. La différence entre le montant de vente réalisé et l'objectif est de l'odre de **€ 1,75 K**.
+En premier lieu, il est important de constater à travers la **KPI** de ventes annuelles qui est sous forme de jauge, que l'objectif de vente annuel de **6000 €** n'a pas été atteint. La différence entre le montant de vente réalisé et l'objectif est de l'odre de **€ 1,75 K**.
 
-La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendrons de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €**. Le mois de Mai a été le mois le plus prolifique, avec 7 ventes à son actif. Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
+La réponse aux questions métiers citées plus haut dans la partie **contexte** dépendront de la catégorie du livre considéré et/ou de l'auteur du livre. Par exemple, pour la catégorie de livres **Bande Déssiné**, il y'a eu au cours de l'année **17 ouvrages** vendus pour un montant total de **109,31 €**. Le mois de Mai a été le mois le plus prolifique, avec 7 ventes à son actif. Les villes où il y'a eu le plus de ventes sont respectivement **Bayonne, Montpelier, Ganges, Perpignan, Lyon et Paris**. 
 
 # Outils
 
